@@ -1,0 +1,5 @@
+A solution to the tennis-game kata (http://codingdojo.org/cgi-bin/wiki.pl?KataTennis) written in javascript.
+
+The tests are ran using expresso like this 'expresso --include lib test/*'
+
+See more information about expresso here: http://visionmedia.github.com/expresso/
